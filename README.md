@@ -1,2 +1,3 @@
-# VarModelCrypto
-A study on a crypto market subset using an Autoregressive Model (VAR)
+# A study on a crypto market subset using an Autoregressive Model (VAR)
+
+This project has been done as final project for "Graphical Models" Spring(2021). The (personal) goal of the project was mostly to play around with VAR models rather than infering on the crypto market. Still, what I wanted to observe was a causal dependecy between Uniswap (UNI) and Ethereum (ETH) and Pancakeswap (CAKE) and Binance smart chain (BNB) respectively. Unfortunately I'm not satisfied with my results and, as pointed out in the conclusion of my report, I blame the timeframe and the limited amount of coins I fitted the VAR model on. A future work may be to fit again a VAR model with a larger selection of coins and a more appropiate timeframe. However, due to the compuational complexity of fitting a VAR, I'm not interested into it at the moment.
